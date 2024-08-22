@@ -12,6 +12,11 @@ Everything to get industrial ray applications running in production
 
 This is a curated list of awesome RAY libraries, projects, and other resources. Contributions are welcome!
 
+# Starting fresh
+1. Normalising Values
+  - https://github.com/ray-project/ray/issues/9399
+  - https://discuss.ray.io/t/normalizing-observations/8652 
+
 ## Contents
 
 - [Libraries](#libraries)
